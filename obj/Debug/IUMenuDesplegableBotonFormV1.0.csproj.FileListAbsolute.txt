@@ -1,0 +1,13 @@
+C:\Users\aroch\source\repos\IUMenuDesplegableBotonFormV1.0\bin\Debug\IUMenuDesplegableBotonFormV1.0.exe.config
+C:\Users\aroch\source\repos\IUMenuDesplegableBotonFormV1.0\bin\Debug\IUMenuDesplegableBotonFormV1.0.exe
+C:\Users\aroch\source\repos\IUMenuDesplegableBotonFormV1.0\bin\Debug\IUMenuDesplegableBotonFormV1.0.pdb
+C:\Users\aroch\source\repos\IUMenuDesplegableBotonFormV1.0\obj\Debug\IUMenuDesplegableBotonFormV1.0.csprojAssemblyReference.cache
+C:\Users\aroch\source\repos\IUMenuDesplegableBotonFormV1.0\obj\Debug\IUMenuDesplegableBotonFormV1._0.InterfazUsuario.resources
+C:\Users\aroch\source\repos\IUMenuDesplegableBotonFormV1.0\obj\Debug\IUMenuDesplegableBotonFormV1._0.Properties.Resources.resources
+C:\Users\aroch\source\repos\IUMenuDesplegableBotonFormV1.0\obj\Debug\IUMenuDesplegableBotonFormV1.0.csproj.GenerateResource.cache
+C:\Users\aroch\source\repos\IUMenuDesplegableBotonFormV1.0\obj\Debug\IUMenuDesplegableBotonFormV1.0.csproj.CoreCompileInputs.cache
+C:\Users\aroch\source\repos\IUMenuDesplegableBotonFormV1.0\obj\Debug\IUMenuDesplegableBotonFormV1.0.exe
+C:\Users\aroch\source\repos\IUMenuDesplegableBotonFormV1.0\obj\Debug\IUMenuDesplegableBotonFormV1.0.pdb
+C:\Users\aroch\source\repos\IUMenuDesplegableBotonFormV1.0\obj\Debug\IUMenuDesplegableBotonFormV1._0.FormulariosSecundarios.FormCompra.resources
+C:\Users\aroch\source\repos\IUMenuDesplegableBotonFormV1.0\obj\Debug\IUMenuDesplegableBotonFormV1._0.FormulariosSecundarios.FormUsuarios.resources
+C:\Users\aroch\source\repos\IUMenuDesplegableBotonFormV1.0\obj\Debug\IUMenuDesplegableBotonFormV1._0.FormulariosSecundarios.FormVenta.resources
